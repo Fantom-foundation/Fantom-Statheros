@@ -1,10 +1,6 @@
 # Fantom Statheros - Frax Finance – Solidity Implementation
 
 <p align="center">
-  <img width="200" height="200" src="https://i.ibb.co/9HHVcGV/frax-logo.png">
-</p>
-
-<p align="center">
 
 📖 **Documentation** – https://docs.frax.finance
 
